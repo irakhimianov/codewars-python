@@ -11,7 +11,6 @@ https://www.codewars.com/kata/513e08acc600c94f01000001
 """
 
 
-
 def rgb(r, g, b):
     RGB = (r, g, b)
     s = ""
